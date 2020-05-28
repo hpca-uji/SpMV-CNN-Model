@@ -1,5 +1,4 @@
-# Convolutional neural nets for estimating the run time and 
-energy consumption of the sparse matrix-vector product - SpMV-CNN
+# Convolutional neural nets for estimating the run time and energy consumption of the sparse matrix-vector product - SpMV-CNN
 
 ## Introduction
 
