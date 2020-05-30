@@ -38,7 +38,7 @@ can be downloaded from https://bit.ly/2ZHsuVI
 
     1. Go to `cd SpMV-driver/src`
     1. Edit makefile and set the PAPI and HDF5 install prefixes
-    3. Compile the driver: `make`
+    3. Build the driver via `make`
 
 2. Run the SpMV driver:
 
