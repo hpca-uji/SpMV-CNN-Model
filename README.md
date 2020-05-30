@@ -120,7 +120,7 @@ where `2400000` is the operating processor frequency (2.4 GHz) and `Time` the mo
 The test should be performed per metric and frequency. The training produces two files in the 
 results/tests/ directory:
 
-* `Pred_*.txt`: This file contains the real measurements and the predictions performed by 
+* `Pred_*.txt`: This file contains the real measurements and the predictions obtained by 
 the CNN for the individual vpos blocks of the testing matrices.
 * `Test_*.txt`: This file summarizes the information of `Pred_*.txt` file, showing the average
 relative error among the blocks of a same matrix and the total relative error, which is computed
