@@ -34,13 +34,13 @@ can be downloaded from: https://bit.ly/2ZHsuVI
 
 ### Obtaining your own dataset
 
-1. Build the SpMV driver
+1. Build the SpMV driver:
 
     1. Go to `cd SpMV-driver/src`
     1. Edit makefile and set the PAPI and HDF5 install prefixes
     3. Compile the driver: `make`
 
-2. Run the SpMV driver
+2. Run the SpMV driver:
 
     `./driver args`
 
@@ -62,7 +62,7 @@ can be downloaded from: https://bit.ly/2ZHsuVI
 
     Note that numactl and taskset is used to guarantee both NUMA and process-core affinity.
 
-3. Obtaining the dataset
+3. Obtaining the dataset:
 
     1. Edit the `SpMV-driver/run_all.sh` and uncomment the line `matrices =` in order to launch the driver for 
        Train_symmetric / Train_noSymmetric / Test_symmetric / Test_noSymmetric matrices.
