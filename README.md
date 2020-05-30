@@ -32,7 +32,10 @@ for this specific processor.
 The training and testing dataset along with the resulting models/weights and results 
 can be downloaded from https://bit.ly/2ZHsuVI
 
-### Obtaining your own dataset
+### Creaning your own dataset
+
+If you wish to create your own training/testing dataset on a different target architecture
+you need to take the following steps:
 
 1. Build the SpMV driver:
 
