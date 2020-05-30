@@ -23,7 +23,7 @@ different processor frequencies.
 ## Obtaining the dataset
 
 The execution time and energy consumption data corresponding to the SpMV operation
-on a set of sparse matrices from the SuiteSparse Collection have been obtained on 
+on a set of sparse matrices from the SuiteSparse Matrix Collection have been obtained on 
 an Intel Xeon E5-2630 core running at frequencies 1.2, 1.6, 2.0, 2.4 GHz. The energy 
 consumption measurements are obtained via the Intel RAPL interface and gathered at 
 three different levels (total, package and DRAM, where total = package + DRAM) 
