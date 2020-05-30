@@ -77,8 +77,8 @@ can be downloaded from https://bit.ly/2ZHsuVI
 ## Hyperparameter search
 
 The script `spmv_cnn_hyperas.py` performs the hyperparameter search via the Hyperas tool.
-This script requires the hdf5 file dataset in the directory dataset/train and produces
-both a `best_model_*.json` and `best_run_*.json` files in the results/models/ directory
+This script requires the hdf5 file dataset in the directory `dataset/train/` and produces
+both a `best_model_*.json` and `best_run_*.json` files in the `results/models/` directory
 containing the model structure and hyperparameters of the best performing configuration.
 
 This script can be invoked in the following way:
@@ -118,7 +118,7 @@ This script can be invoked in the following way:
 
 where `2400000` is the operating processor frequency (2.4 GHz) and `Time` the modeled metric.
 The test should be performed per metric and frequency. The training produces two files in the 
-results/tests/ directory:
+`results/tests/` directory:
 
 * `Pred_*.txt`: This file contains the real measurements and the predictions obtained by 
 the CNN for the individual vpos blocks of the testing matrices.
