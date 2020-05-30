@@ -1,0 +1,33 @@
+356 	ct20stif 	Boeing 	52.329 	52.329 	2.600.295 	Structural Problem 	1995 	
+761 	nasasrb 	Nasa 	54.870 	54.870 	2.677.324 	Structural Problem 	1995 	
+805 	cfd2 	Rothberg 	123.440 	123.440 	3.085.406 	Computational Fluid Dynamics Problem 	1997 	
+936 	nd3k 	ND 	9.000 	9.000 	3.279.690 	2D/3D Problem 	2003 	
+1270 	oilpan 	GHS_psdef 	73.752 	73.752 	2.148.558 	Structural Problem 	2004 	
+1275 	s3dkq4m2 	GHS_psdef 	90.449 	90.449 	4.427.725 	Structural Problem 	1997 	
+1276 	s3dkt3m2 	GHS_psdef 	90.449 	90.449 	3.686.223 	Structural Problem 	1997 	
+1277 	ship_001 	DNVS 	34.920 	34.920 	3.896.496 	Structural Problem 	1999 	
+1278 	ship_003 	DNVS 	121.728 	121.728 	3.777.036 	Structural Problem 	1999 	
+1279 	shipsec1 	DNVS 	140.874 	140.874 	3.568.176 	Structural Problem 	1999 	
+1280 	shipsec5 	DNVS 	179.860 	179.860 	4.598.604 	Structural Problem 	1999 	
+1281 	shipsec8 	DNVS 	114.919 	114.919 	3.303.553 	Structural Problem 	1999 	
+1283 	thread 	DNVS 	29.736 	29.736 	4.444.880 	Structural Problem 	1999 	
+1287 	vanbody 	GHS_psdef 	47.072 	47.072 	2.329.056 	Structural Problem 	2004 	
+1423 	apache2 	GHS_psdef 	715.176 	715.176 	4.817.870 	Structural Problem 	2006 	
+1849 	Dubcova3 	UTEP 	146.689 	146.689 	3.636.643 	2D/3D Problem 	2007 	
+1853 	parabolic_fem 	Wissgott 	525.825 	525.825 	3.674.625 	Computational Fluid Dynamics Problem 	2007 	
+1883 	ecology2 	McRae 	999.999 	999.999 	4.995.991 	2D/3D Problem 	2008 	
+1909 	smt 	TKK 	25.710 	25.710 	3.749.582 	Structural Problem 	2008 	
+2283 	offshore 	Um 	259.789 	259.789 	4.242.673 	Electromagnetics Problem 	2010 	
+341 	bcsstk36 	Boeing 	23.052 	23.052 	1.143.140 	Structural Problem 	1995 	
+361 	msc10848 	Boeing 	10.848 	10.848 	1.229.776 	Structural Problem 	1995 	
+362 	msc23052 	Boeing 	23.052 	23.052 	1.142.686 	Structural Problem 	1995 	
+804 	cfd1 	Rothberg 	70.656 	70.656 	1.825.580 	Computational Fluid Dynamics Problem 	1997 	
+813 	olafu 	Simon 	16.146 	16.146 	1.015.156 	Structural Problem 	1993 	
+817 	raefsky4 	Simon 	19.779 	19.779 	1.316.789 	Structural Problem 	1993 	
+845 	qa8fm 	Cunningham 	66.127 	66.127 	1.660.579 	Acoustics Problem 	2002 	
+1202 	gyro_k 	Oberwolfach 	17.361 	17.361 	1.021.159 	Duplicate Model Reduction Problem 	2004 	
+1435 	gyro 	Oberwolfach 	17.361 	17.361 	1.021.159 	Model Reduction Problem 	2004 	
+1848 	Dubcova2 	UTEP 	65.025 	65.025 	1.030.225 	2D/3D Problem 	2007 	
+1892 	denormal 	Castrillon 	89.400 	89.400 	1.156.224 	Counter Example Problem 	2008 	
+1919 	2cubes_sphere 	Um 	101.492 	101.492 	1.647.264 	Electromagnetics Problem 	2008 	
+2259 	thermomech_dM 	Botonakis 	204.316 	204.316 	1.423.116 	Thermal Problem 	2009

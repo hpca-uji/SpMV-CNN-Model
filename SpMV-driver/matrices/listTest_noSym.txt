@@ -1,0 +1,26 @@
+648 	lp_osa_60 	LPnetlib 	10.280 	243.246 	1.408.073 	Linear Programming Problem 	1990 	
+903 	landmark 	Pereyra 	71.952 	2.704 	1.146.848 	Least Squares Problem 	2003 	
+1661 	watson_1 	Mittelmann 	201.155 	386.992 	1.055.093 	Linear Programming Problem 	2005 	
+1662 	watson_2 	Mittelmann 	352.013 	677.224 	1.846.391 	Linear Programming Problem 	2005 	
+1670 	neos 	Mittelmann 	479.119 	515.905 	1.526.794 	Linear Programming Problem 	2005 	
+1734 	nemsemm1 	Meszaros 	3.945 	75.352 	1.053.986 	Linear Programming Problem 	2004 	
+1813 	karted 	Meszaros 	46.502 	133.115 	1.770.349 	Linear Programming Problem 	2006 	
+1815 	ts-palko 	Meszaros 	22.002 	47.235 	1.076.903 	Linear Programming Problem 	2006 	
+1890 	Maragal_7 	NYPA 	46.845 	26.564 	1.200.537 	Least Squares Problem 	2008 	
+2217 	Maragal_8 	NYPA 	33.212 	75.077 	1.308.415 	Least Squares Problem 	2008 	
+1814 	tp-6 	Meszaros 	142.752 	1.014.301 	11.537.419 	Linear Programming Problem 	2006 	
+2757 	JP 	Harvard_Seismology 	87.616 	67.320 	13.734.559 	Tomography Problem 	2015
+1660 	stormG2_1000 	Mittelmann 	528.185 	1.377.306 	3.459.881 	Linear Programming Problem 	2005 	
+1773 	stat96v2 	Meszaros 	29.089 	957.432 	2.852.184 	Linear Programming Problem 	2005 	
+1774 	stat96v3 	Meszaros 	33.841 	1.113.780 	3.317.736 	Linear Programming Problem 	2005 	
+2273 	LargeRegFile 	Stevenson 	2.111.154 	801.374 	4.944.201 	Circuit Simulation Problem 	2010 	
+2652 	Delor295K 	ANSYS 	295.734 	1.823.928 	2.401.323 	Least Squares Problem 	2011 	
+2653 	Delor338K 	ANSYS 	343.236 	887.058 	4.211.599 	Least Squares Problem 	2011 	
+2832 	Hardesty2 	Hardesty 	929.901 	303.645 	4.020.731 	Computer Graphics/Vision Problem 	2015
+1660 	stormG2_1000 	Mittelmann 	528.185 	1.377.306 	3.459.881 	Linear Programming Problem 	2005 	
+1773 	stat96v2 	Meszaros 	29.089 	957.432 	2.852.184 	Linear Programming Problem 	2005 	
+1774 	stat96v3 	Meszaros 	33.841 	1.113.780 	3.317.736 	Linear Programming Problem 	2005 	
+2273 	LargeRegFile 	Stevenson 	2.111.154 	801.374 	4.944.201 	Circuit Simulation Problem 	2010 	
+2652 	Delor295K 	ANSYS 	295.734 	1.823.928 	2.401.323 	Least Squares Problem 	2011 	
+2653 	Delor338K 	ANSYS 	343.236 	887.058 	4.211.599 	Least Squares Problem 	2011 	
+2832 	Hardesty2 	Hardesty 	929.901 	303.645 	4.020.731 	Computer Graphics/Vision Problem 	2015

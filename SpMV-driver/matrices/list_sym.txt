@@ -1,0 +1,79 @@
+1902 	nlpkkt120 	Schenk 	3.542.400 	3.542.400 	95.117.792 	Optimization Problem 	2008 	
+2388 	dielFilterV3real 	Dziekonski 	1.102.824 	1.102.824 	89.306.020 	Electromagnetics Problem 	2011 	
+2551 	Long_Coup_dt6 	Janna 	1.470.152 	1.470.152 	84.422.970 	Structural Problem 	2012 	
+2550 	Long_Coup_dt0 	Janna 	1.470.152 	1.470.152 	84.422.970 	Structural Problem 	2012 	
+1252 	audikw_1 	GHS_psdef 	943.695 	943.695 	77.651.847 	Structural Problem 	2004 	
+2541 	Serena 	Janna 	1.391.349 	1.391.349 	64.131.971 	Structural Problem 	2011 	
+2545 	Geo_1438 	Janna 	1.437.960 	1.437.960 	60.236.322 	Structural Problem 	2011 	
+2546 	Hook_1498 	Janna 	1.498.023 	1.498.023 	59.374.451 	Structural Problem 	2011 	
+1586 	af_shell10 	Schenk_AFE 	1.508.065 	1.508.065 	52.259.885 	Structural Problem 	2006 	
+2386 	dielFilterV2real 	Dziekonski 	1.157.456 	1.157.456 	48.538.952 	Electromagnetics Problem 	2011 	
+1453 	bone010 	Oberwolfach 	986.703 	986.703 	47.851.783 	Model Reduction Problem 	2006 	
+1268 	ldoor 	GHS_psdef 	952.203 	952.203 	42.493.817 	Structural Problem 	2004 	
+1455 	boneS10 	Oberwolfach 	914.898 	914.898 	40.878.708 	Model Reduction Problem 	2006 	
+2542 	Emilia_923 	Janna 	923.136 	923.136 	40.373.538 	Structural Problem 	2011 	
+2661 	PFlow_742 	Janna 	742.793 	742.793 	37.138.461 	2D/3D Problem 	2014 	
+1267 	inline_1 	GHS_psdef 	503.712 	503.712 	36.816.170 	Structural Problem 	2004 	
+2282 	mouse_gene 	Belcastro 	45.101 	45.101 	28.967.291 	Undirected Weighted Graph 	2010 	
+939 	nd24k 	ND 	72.000 	72.000 	28.715.634 	2D/3D Problem 	2003 	
+1901 	nlpkkt80 	Schenk 	1.062.400 	1.062.400 	28.192.672 	Optimization Problem 	2008 	
+2543 	Fault_639 	Janna 	638.802 	638.802 	27.245.944 	Structural Problem 	2011 	
+1411 	F1 	Koutsovasilis 	343.791 	343.791 	26.837.113 	Structural Problem 	2006 	
+2573 	CurlCurl_4 	Bodendiek 	2.380.515 	2.380.515 	26.515.867 	Model Reduction Problem 	2012 	
+2280 	human_gene1 	Belcastro 	22.283 	22.283 	24.669.643 	Undirected Weighted Graph 	2010 	
+2329 	gsm_106857 	Dziekonski 	589.446 	589.446 	21.758.924 	Electromagnetics Problem 	2010 	
+2547 	StocF-1465 	Janna 	1.465.137 	1.465.137 	21.005.389 	Computational Fluid Dynamics Problem 	2011 	
+2664 	bundle_adj 	Mazaheri 	513.351 	513.351 	20.207.907 	Computer Vision Problem 	2015 	
+1644 	msdoor 	INPRO 	415.863 	415.863 	19.173.163 	Structural Problem 	2005 	
+1353 	Ga41As41H72 	PARSEC 	268.096 	268.096 	18.488.476 	Theoretical/Quantum Chemistry Problem 	2005 	
+2281 	human_gene2 	Belcastro 	14.340 	14.340 	18.068.388 	Undirected Weighted Graph 	2010 	
+948 	af_shell9 	Schenk_AFE 	504.855 	504.855 	17.588.845 	Subsequent Structural Problem 	2003 	
+946 	af_shell7 	Schenk_AFE 	504.855 	504.855 	17.579.155 	Subsequent Structural Problem 	2003 	
+944 	af_shell5 	Schenk_AFE 	504.855 	504.855 	17.579.155 	Subsequent Structural Problem 	2003 	
+945 	af_shell6 	Schenk_AFE 	504.855 	504.855 	17.579.155 	Subsequent Structural Problem 	2003 	
+947 	af_shell8 	Schenk_AFE 	504.855 	504.855 	17.579.155 	Subsequent Structural Problem 	2003 	
+943 	af_shell4 	Schenk_AFE 	504.855 	504.855 	17.562.051 	Subsequent Structural Problem 	2003 	
+942 	af_shell3 	Schenk_AFE 	504.855 	504.855 	17.562.051 	Subsequent Structural Problem 	2003 	
+941 	af_shell2 	Schenk_AFE 	504.855 	504.855 	17.562.051 	Subsequent Structural Problem 	2003 	
+940 	af_shell1 	Schenk_AFE 	504.855 	504.855 	17.562.051 	Structural Problem Sequence 	2003 	
+1583 	af_3_k101 	Schenk_AFE 	503.625 	503.625 	17.550.675 	Structural Problem 	2006 	
+1582 	af_2_k101 	Schenk_AFE 	503.625 	503.625 	17.550.675 	Structural Problem 	2006 	
+1580 	af_0_k101 	Schenk_AFE 	503.625 	503.625 	17.550.675 	Structural Problem 	2006 	
+1581 	af_1_k101 	Schenk_AFE 	503.625 	503.625 	17.550.675 	Structural Problem 	2006 	
+1585 	af_5_k101 	Schenk_AFE 	503.625 	503.625 	17.550.675 	Structural Problem 	2006 	
+1584 	af_4_k101 	Schenk_AFE 	503.625 	503.625 	17.550.675 	Structural Problem 	2006 	
+1362 	Si41Ge41H72 	PARSEC 	185.639 	185.639 	15.011.265 	Theoretical/Quantum Chemistry Problem 	2005 	
+938 	nd12k 	ND 	36.000 	36.000 	14.220.946 	2D/3D Problem 	2003 	
+1258 	crankseg_2 	GHS_psdef 	63.838 	63.838 	14.148.858 	Structural Problem 	2004 	
+2572 	CurlCurl_3 	Bodendiek 	1.219.574 	1.219.574 	13.544.618 	Model Reduction Problem 	2012 	
+1850 	BenElechi1 	BenElechi 	245.874 	245.874 	13.150.496 	2D/3D Problem 	2007 	
+2226 	TSOPF_FS_b300_c3 	TSOPF 	84.414 	84.414 	13.135.930 	Power Network Problem 	2009 	
+1876 	kkt_power 	Zaoui 	2.063.494 	2.063.494 	12.771.361 	Optimization Problem 	2007 	
+369 	pwtk 	Boeing 	217.918 	217.918 	11.524.432 	Structural Problem 	1995 	
+1219 	bmw3_2 	GHS_indef 	227.362 	227.362 	11.288.630 	Structural Problem 	2004 	
+1367 	SiO2 	PARSEC 	155.331 	155.331 	11.283.503 	Theoretical/Quantum Chemistry Problem 	2005 	
+1364 	Si87H76 	PARSEC 	240.369 	240.369 	10.661.631 	Theoretical/Quantum Chemistry Problem 	2005 	
+1254 	bmwcra_1 	GHS_psdef 	148.770 	148.770 	10.641.602 	Structural Problem 	2004 	
+1257 	crankseg_1 	GHS_psdef 	52.804 	52.804 	10.614.210 	Structural Problem 	2004 	
+1266 	hood 	GHS_psdef 	220.542 	220.542 	9.895.422 	Structural Problem 	2004 	
+1269 	m_t1 	DNVS 	97.578 	97.578 	9.753.570 	Structural Problem 	1999 	
+2571 	CurlCurl_2 	Bodendiek 	806.529 	806.529 	8.921.789 	Model Reduction Problem 	2012 	
+1351 	Ga19As19H42 	PARSEC 	133.123 	133.123 	8.884.839 	Theoretical/Quantum Chemistry Problem 	2005 	
+2225 	TSOPF_FS_b300_c2 	TSOPF 	56.814 	56.814 	8.767.466 	Power Network Problem 	2009 	
+1290 	x104 	DNVS 	108.384 	108.384 	8.713.602 	Structural Problem 	1999 	
+1403 	thermal2 	Schmid 	1.228.045 	1.228.045 	8.580.313 	Thermal Problem 	2006 	
+1356 	Ge99H100 	PARSEC 	112.985 	112.985 	8.451.395 	Theoretical/Quantum Chemistry Problem 	2005 	
+1355 	Ge87H76 	PARSEC 	112.985 	112.985 	7.892.195 	Theoretical/Quantum Chemistry Problem 	2005 	
+2813 	TEM181302 	Guettel 	181.302 	181.302 	7.839.010 	Electromagnetics Problem 	2015 	
+1349 	CO 	PARSEC 	221.119 	221.119 	7.666.057 	Theoretical/Quantum Chemistry Problem 	2005 	
+1421 	G3_circuit 	AMD 	1.585.478 	1.585.478 	7.660.826 	Circuit Simulation Problem 	2006 	
+1253 	bmw7st_1 	GHS_psdef 	141.347 	141.347 	7.318.399 	Structural Problem 	2004 	
+937 	nd6k 	ND 	18.000 	18.000 	6.897.316 	2D/3D Problem 	2003 	
+2812 	TEM152078 	Guettel 	152.078 	152.078 	6.459.326 	Electromagnetics Problem 	2015 	
+1350 	Ga10As10H30 	PARSEC 	113.081 	113.081 	6.115.633 	Theoretical/Quantum Chemistry Problem 	2005 	
+2374 	consph 	Williams 	83.334 	83.334 	6.010.480 	2D/3D Problem 	2008 	
+1352 	Ga3As3H12 	PARSEC 	61.349 	61.349 	5.970.947 	Theoretical/Quantum Chemistry Problem 	2005 	
+1454 	boneS01 	Oberwolfach 	127.224 	127.224 	5.516.602 	Model Reduction Problem 	2006 	
+1861 	F2 	Koutsovasilis 	71.505 	71.505 	5.294.285 	Structural Problem 	2007 	
+1361 	Si34H36 	PARSEC 	97.569 	97.569 	5.156.379 	Theoretical/Quantum Chemistry Problem 	2005 	
+1899 	tmt_sym 	CEMW 	726.713 	726.713 	5.080.961 	Electromagnetics Problem 	2008 	

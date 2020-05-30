@@ -1,0 +1,31 @@
+1674 	spal_004 	Mittelmann 	10.203 	321.696 	46.168.124 	Linear Programming Problem 	2005 	
+2833 	Hardesty3 	Hardesty 	8.217.820 	7.591.564 	40.451.632 	Computer Graphics/Vision Problem 	2015 	
+2757 	JP 	Harvard_Seismology 	87.616 	67.320 	13.734.559 	Tomography Problem 	2015 	
+1814 	tp-6 	Meszaros 	142.752 	1.014.301 	11.537.419 	Linear Programming Problem 	2006 	
+1812 	degme 	Meszaros 	185.501 	659.415 	8.127.528 	Linear Programming Problem 	2006 	
+1881 	Rucci1 	Rucci 	1.977.885 	109.900 	7.791.168 	Least Squares Problem 	2007 	
+2658 	specular 	Brogan 	477.976 	1.600 	7.647.040 	Computer Vision Problem 	2014 	
+1664 	cont1_l 	Mittelmann 	1.918.399 	1.921.596 	7.031.999 	Linear Programming Problem 	2005 	
+2218 	sls 	Bates 	1.748.122 	62.729 	6.804.304 	Least Squares Problem 	2008 	
+1860 	ESOC 	Springer 	327.062 	37.830 	6.019.939 	Least Squares Problem 	2007 	
+1663 	cont11_l 	Mittelmann 	1.468.599 	1.961.394 	5.382.999 	Linear Programming Problem 	2005 	
+916 	cage15 	vanHeukelum 	5.154.859 	5.154.859 	99.199.551 	Directed Weighted Graph 	2003 	
+2276 	circuit5M 	Freescale 	5.558.326 	5.558.326 	59.524.291 	Circuit Simulation Problem 	2010 	
+2337 	RM07R 	Fluorem 	381.689 	381.689 	37.464.962 	Computational Fluid Dynamics Problem 	2010 	
+2648 	ML_Laplace 	Janna 	377.002 	377.002 	27.582.698 	Structural Problem 	2012 	
+915 	cage14 	vanHeukelum 	1.505.785 	1.505.785 	27.130.349 	Directed Weighted Graph 	2003 	
+2380 	FullChip 	Freescale 	2.987.012 	2.987.012 	26.621.983 	Circuit Simulation Problem 	2011 	
+2649 	Transport 	Janna 	1.602.111 	1.602.111 	23.487.281 	Structural Problem 	2012 	
+1398 	rajat31 	Rajat 	4.690.002 	4.690.002 	20.316.253 	Circuit Simulation Problem 	2006 	
+2647 	CoupCons3D 	Janna 	416.800 	416.800 	17.277.420 	Structural Problem 	2012 	
+2216 	Freescale1 	Freescale 	3.428.755 	3.428.755 	17.052.626 	Circuit Simulation Problem 	2008 	
+2236 	TSOPF_RS_b2383_c1 	TSOPF 	38.120 	38.120 	16.171.169 	Power Network Problem 	2009 	
+2219 	TSOPF_RS_b2383 	TSOPF 	38.120 	38.120 	16.171.169 	Power Network Problem 	2009 	
+2277 	circuit5M_dc 	Freescale 	3.523.317 	3.523.317 	14.865.409 	Circuit Simulation Problem 	2010 	
+2662 	Freescale2 	Freescale 	2.999.349 	2.999.349 	14.313.235 	Circuit Simulation Matrix 	2015 	
+2274 	memchip 	Freescale 	2.707.524 	2.707.524 	13.343.948 	Circuit Simulation Problem 	2010 	
+2267 	atmosmodl 	Bourchtein 	1.489.752 	1.489.752 	10.319.760 	Computational Fluid Dynamics Problem 	2009 	
+2266 	atmosmodj 	Bourchtein 	1.270.432 	1.270.432 	8.814.880 	Computational Fluid Dynamics Problem 	2009 	
+2265 	atmosmodd 	Bourchtein 	1.270.432 	1.270.432 	8.814.880 	Computational Fluid Dynamics Problem 	2009 	
+2244 	TSOPF_RS_b678_c2 	TSOPF 	35.696 	35.696 	8.781.949 	Power Network Problem 	2009 	
+896 	torso1 	Norris 	116.158 	116.158 	8.516.500 	2D/3D Problem 	2003
