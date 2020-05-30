@@ -107,7 +107,7 @@ where `2400000` is the operating processor frequency (2.4 GHz) and `Time` the mo
 The training should be performed per metric and frequency. The training produces a file that
 contains the trained weights, so the model is ready for performing inference.
 
-## Test
+## Testing
 
 The script `spmv_cnn_test.py` performs the test on the set of testing matrices involved in
 the SpMV operation.
