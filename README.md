@@ -32,7 +32,7 @@ for this specific processor.
 The training and testing dataset along with the resulting models/weights and results 
 can be downloaded from: https://bit.ly/2ZHsuVI
 
-# Obtaining your own dataset
+### Obtaining your own dataset
 
 1. Build the SpMV driver
 
@@ -42,25 +42,25 @@ can be downloaded from: https://bit.ly/2ZHsuVI
 
 2. Run the SpMV driver
 
-`./driver args`
+    `./driver args`
 
-List of arguments
-```
-matrix = audikw_1.rb                          # Input matrix in rb format
-reps = 10000                                  # Number of repetitions of the operation to avoid overhead
-block_size_ini = 250                          # Minimum block size
-block_size_end = 1000                         # Maximum block size
-increment = 250                               # Increment between block sizes
-base = 0                                      # Starting nnz of the matrix
-freq = [2400000, 2000000, 1600000, 1200000]   # Operating frequency
-sym = 1                                       # If 1 the matrix is symmetric. If 0 the matrix is no-symmetric.
-```
+    List of driver arguments:
+    ```
+    matrix = audikw_1.rb                          # Input matrix in rb format
+    reps = 10000                                  # Number of repetitions of the operation to avoid overhead
+    block_size_ini = 250                          # Minimum block size
+    block_size_end = 1000                         # Maximum block size
+    increment = 250                               # Increment between block sizes
+    base = 0                                      # Starting nnz of the matrix
+    freq = [2400000, 2000000, 1600000, 1200000]   # Operating frequency
+    sym = 1                                       # If 1 the matrix is symmetric. If 0 the matrix is no-symmetric.
+    ```
 
-Example:
+    Example:
 
-`numactl --membind 0 taskset -c 0 ./src/driver $matrix $reps $block_size_ini $block_size_end $increment $base $freq`
+    `numactl --membind 0 taskset -c 0 ./src/driver $matrix $reps $block_size_ini $block_size_end $increment $base $freq`
 
-Note that NUMA and processor affinity is used to guarantee memory allocations on local NUMA memory node 0 and to prevent process migration.
+    Note that numactl and taskset is used to guarantee both NUMA and process-core affinity.
 
 3. Obtaining the dataset
 
