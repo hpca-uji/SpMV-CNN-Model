@@ -12,7 +12,7 @@ HDF5_HOME = /home/mvaya/hdf5
 HDF5_INC = $(HDF5_HOME)/include
 HDF5_LIB = -L$(HDF5_HOME)/lib   
 
-CFLAGS = -Wall -I. -O1 -I$(HDF5_INC) -I$(PAPI_INCLUDE) -g 
+CFLAGS = -Wall -I. -march=native -O1 -I$(HDF5_INC) -I$(PAPI_INCLUDE) -g 
 CLINKER = gcc
 LIBLIST = -lm -lc $(HDF5_LIB) -lhdf5 $(PAPI_LIBRARY) 
 # ============================================================
