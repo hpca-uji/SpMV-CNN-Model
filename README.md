@@ -127,9 +127,8 @@ relative error among the blocks of a same matrix and the total relative error, w
 by summing up the real measurements and the predicitions for all the blocks of a same matrix and
 computing the relative error upon those values.
 
-# Summary
 
-All previous steps can be performed at once via the `run.sh` bash script provided in this repository.
+*Note that all previous steps can be performed at once via the `run.sh` bash script provided in this repository.*
 
 ## References
 
