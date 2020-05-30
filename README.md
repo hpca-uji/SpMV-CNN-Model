@@ -64,7 +64,7 @@ can be downloaded from: https://bit.ly/2ZHsuVI
 
 3. Obtaining the dataset
 
-    1. Edit the `SpMV-driver/run_all.sh and uncomment the line matrices = in order to launch the driver for 
+    1. Edit the `SpMV-driver/run_all.sh` and uncomment the line `matrices =` in order to launch the driver for 
        Train_symmetric / Train_noSymmetric / Test_symmetric / Test_noSymmetric matrices.
 
     2. Edit the 3rd parameter in the command SpMV-driver/run_driver.sh: 1 for symmetric matrices, 2 for unsymmetric matrices.
