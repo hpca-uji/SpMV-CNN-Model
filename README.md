@@ -140,6 +140,8 @@ Publications describing **SpMV-CNN-Model**:
 * Barreda, M., Dolz, M.F., Castaño, M.A. et al. Performance modeling of the sparse matrix–vector product 
  via convolutional neural networks. J Supercomput (2020). https://doi.org/10.1007/s11227-020-03186-1
 
+* ...
+
 ## Acknowledgments
 
 The **SpMV-CNN-Model** research has been partially supported by:
