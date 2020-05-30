@@ -1,6 +1,6 @@
 # Run hyperparameter optimization
-python3 spmv_cnn_hyperas.py 2400000 Time
-python3 spmv_cnn_hyperas.py 2400000 Energy
+python3 spmv_cnn_hyper.py 2400000 Time
+python3 spmv_cnn_hyper.py 2400000 Energy
 
 # Train the models
 for f in {12..24..4}; do
