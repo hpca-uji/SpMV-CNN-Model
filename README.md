@@ -30,7 +30,7 @@ three different levels (total, package and DRAM, where total = package + DRAM)
 for this specific processor.
 
 The training and testing dataset along with the resulting models/weights and results 
-can be downloaded from: https://bit.ly/2ZHsuVI
+can be downloaded from https://bit.ly/2ZHsuVI
 
 ### Obtaining your own dataset
 
@@ -60,7 +60,7 @@ can be downloaded from: https://bit.ly/2ZHsuVI
 
     `numactl --membind 0 taskset -c 0 ./src/driver $matrix $reps $block_size_ini $block_size_end $increment $base $freq`
 
-    Note that numactl and taskset is used to guarantee both NUMA and process-core affinity.
+    Note that `numactl` and `taskset` utilities are used to guarantee both NUMA and process-to-core affinity.
 
 3. Obtaining the dataset:
 
@@ -76,7 +76,7 @@ can be downloaded from: https://bit.ly/2ZHsuVI
 
 ## Hyperparameter search
 
-The script `spmv_cnn_hyperas.py` performs the hypeparameter search via the Hyperas tool.
+The script `spmv_cnn_hyperas.py` performs the hyperparameter search via the Hyperas tool.
 This script requires the hdf5 file dataset in the directory dataset/train and produces
 both a `best_model_*.json` and `best_run_*.json` files in the results/models/ directory
 containing the model structure and hyperparameters of the best performing configuration.
@@ -88,15 +88,15 @@ This script can be invoked in the following way:
 where `2400000` is the operating processor frequency (2.4 GHz) and `Time` the modeled metric.
 According to the labels in the dataset, the hyperparameter search can also be 
 performed with the `Energy`, `EPKG` and `EDRAM` metrics, corresponding to the energy
-measured by the Intel RAPL counters from our Intel Xeon Haswell core. In our case, however
+measured by the Intel RAPL counters from our Intel Xeon Haswell core. In our case, however,
 we only search hyperparameters for the `Time` and `Energy` metrics at 2.4 GHz. Other metrics
-and frequencies inherint the best performing model and settings from the previous
+and frequencies inherit the best performing model and settings from the previous
 configuration.
 
 ## Training
 
 The script `spmv_cnn_train.py` performs the training on the best performing models obtained
-on the previous step. For that it uses both the `best_model_*.json` and `best_run_*.json` files
+on the previous step. For that, it uses both the `best_model_*.json` and `best_run_*.json` files
 obtained in the second step. 
 
 This script can be invoked in the following way:
@@ -109,7 +109,7 @@ contains the trained weights, so the model is ready for performing inference.
 
 ## Test
 
-The script `spmv_cnn_test.py` performs the test on the the set of testing matrices involved in
+The script `spmv_cnn_test.py` performs the test on the set of testing matrices involved in
 the SpMV operation.
 
 This script can be invoked in the following way:
@@ -124,7 +124,7 @@ results/tests/ directory:
 the CNN for the individual vpos blocks of the testing matrices.
 * `Test_*.txt`: This file summarizes the information of `Pred_*.txt` file, showing the average
 relative error among the blocks of a same matrix and the total relative error, which is computed
-by summing up the real measurements and the predicitions for all the blocks of a same matrix and
+by summing up the real measurements and the predictions for all the blocks of a same matrix and
 computing the relative error upon those values.
 
 
