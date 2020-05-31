@@ -61,7 +61,7 @@ you need to take the following steps:
 
     Example:
 
-    `numactl --membind 0 taskset -c 0 ./src/driver $matrix $reps $block_size_ini $block_size_end $increment $base $freq`
+    `numactl --membind 0 taskset -c 0 ./src/driver audikw_1.rb 10000 250 1000 250 0 2400000`
 
     Note that `numactl` and `taskset` utilities are used to guarantee both NUMA and process-to-core affinity.
 
