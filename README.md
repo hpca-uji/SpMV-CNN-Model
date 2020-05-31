@@ -65,7 +65,7 @@ you need to take the following steps:
 
     Note that `numactl` and `taskset` utilities are used to guarantee both NUMA and process-to-core affinity.
 
-3. Obtaining the dataset:
+3. Generating the dataset:
 
     1. Edit the `SpMV-driver/run_all.sh` and uncomment the line `matrices =` in order to launch the driver for 
        Train_symmetric / Train_noSymmetric / Test_symmetric / Test_noSymmetric matrices.
@@ -76,7 +76,7 @@ you need to take the following steps:
 
     4. Run `SpMV-driver/run_all.sh` to obtain `hdf5` files that will create the dataset.
  
-4. Merge matrix `hdf5`files:
+4. Merging the dataset:
 
     Run the script
 
