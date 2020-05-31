@@ -78,9 +78,12 @@ you need to take the following steps:
  
 4. Merge matrix `hdf5`files:
 
-    Run the script `SpMV-driver/merge_train_matrices.py /path/to/hdf5/matrix/files /output/path` to obtain a single `hdf5` 
-    file containing all data from individual `hdf5` files obtained in the previous step. This merged file
-    is the training dataset.
+    Run the script
+
+    `python3 SpMV-driver/merge_train_matrices.py /path/to/hdf5/matrix/files /output/path` 
+
+    to obtain a single `hdf5` file containing all data from individual `hdf5` files obtained in the previous step.
+    This merged file is the training dataset.
    
 ## Hyperparameter search
 
