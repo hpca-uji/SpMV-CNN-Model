@@ -3,7 +3,7 @@
 ## Introduction
 
 **SpMV-CNN** is a set of Convolutional Neural Networks (CNNs) that provide 
-accurate estimations of the performance and energy consumption of the SPMV 
+accurate estimations of the performance and energy consumption of the SpMV 
 kernel. The proposed CNN-based models use a block-wise approach to make the 
 CNN architecture independent of the matrix size. These models cat be trained 
 to estimate run time as well as total, package and DRAM energy consumption at 
