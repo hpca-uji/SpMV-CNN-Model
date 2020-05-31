@@ -45,7 +45,7 @@ you need to take the following steps:
 
 2. Run the SpMV driver:
 
-    `./driver args`
+    `./driver <arg0> <arg1> ...`
 
     List of driver arguments:
     ```
