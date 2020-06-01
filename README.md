@@ -138,7 +138,7 @@ relative error among the blocks of each test matrix and the total relative error
 by summing up the real measurements and the predictions for all the blocks of a same matrix and
 computing the relative error upon those values.
 
-*Note that this testing step and the two previous steps (hyperparameter search and training) can be performed at once.*
+*Note that this testing step and the two previous steps (hyperparameter search and training) can be performed at once using the `run.sh` script.*
 
 ## References
 
