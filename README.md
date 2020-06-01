@@ -96,7 +96,7 @@ This script can be invoked in the following way:
 
 `python3 spmv_cnn_hyper.py 2400000 Time`
 
-where `2400000` is the operating processor frequency (2.4 GHz) and `Time` the modeled metric.
+where `2400000` is the operating processor frequency (2.4 GHz) at which the dataset was generated and `Time` the modeled metric.
 According to the labels in the dataset, the hyperparameter search can also be 
 performed with the `Energy`, `EPKG` and `EDRAM` metrics, corresponding to the energy
 measured by the Intel RAPL counters from our Intel Xeon Haswell core. In our case, however,
@@ -108,7 +108,7 @@ configuration.
 
 The script `spmv_cnn_train.py` performs the training on the best performing models obtained
 on the previous step. For that, it uses both the `best_model_*.json` and `best_run_*.json` files
-obtained in the second step. 
+obtained in the hyperparameter search. 
 
 This script can be invoked in the following way:
 
@@ -134,12 +134,11 @@ The test should be performed per metric and frequency. The training produces two
 * `Pred_*.txt`: This file contains the real measurements and the predictions obtained by 
 the CNN for the individual vpos blocks of the testing matrices.
 * `Test_*.txt`: This file summarizes the information of `Pred_*.txt` file, showing the average
-relative error among the blocks of a same matrix and the total relative error, which is computed
+relative error among the blocks of each test matrix and the total relative error, which is computed
 by summing up the real measurements and the predictions for all the blocks of a same matrix and
 computing the relative error upon those values.
 
-
-*Note that all previous steps can be performed at once via the `run.sh` bash script provided in this repository.*
+*Note that this testing step and the two previous steps (hyperparameter search and training) can be performed at once.*
 
 ## References
 
