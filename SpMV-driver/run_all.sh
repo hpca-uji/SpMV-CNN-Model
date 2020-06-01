@@ -42,7 +42,7 @@ do
         chmod 777 "output_$nombre""_$frec.h5"
         chmod 777 "$nombre.rb"
         # EDIT
-        sudo ./launch.sh "$nombre.rb" "$frec" "1"  #SUDO FOR ENERGY. Parameter 1 indicates symmetric matrices.
+        sudo ./run_driver.sh "$nombre.rb" "$frec" "1"  #SUDO FOR ENERGY. Parameter 1 indicates symmetric matrices.
 
         filesize=`stat -c %s output_${nombre}_${frec}.h5`
         count=$(( $count + 1 ))
